@@ -44,7 +44,9 @@ Retrograde Inversion (RI): A#, G#, F, B, G, E, D, C, F#, D#, A, C#
 Each tone row is equivalent to a specific section of the music piece “Apodomisis”. Thus: 
 
 •	The first section (m. 1-30) where is presented the Prime and the Retrograde state of the twelve-tone series
+
 •	The second section (m. 31-60) where is presented the Inversion and the Retrograde Inversion of the twelve-tone series
+
 •	The third section (m. 61-90) where is presented all the tone rows of the twelve-tone series (Prime, Retrograde, Inversion, Retrograde Inversion) 
 
 Methodology of Composing “Apodomisis”
@@ -52,8 +54,11 @@ Methodology of Composing “Apodomisis”
 In order to compose “Apodomisis”: 
 
 •	Writing of a conventional music score
+
 •	Translation of music score (notes and durations) into numbers/code 
+
 •	Physical Modeling of Flute in Super Collider
+
 •	Metronome which is exported to one channel linked to headphones in order to indicate the right tempo mark so as to perform the piece with score at the same time with the code.
 
 Comments of the composition of “Apodomisis” and Aspirations of Future Projects
