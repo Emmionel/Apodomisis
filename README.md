@@ -20,10 +20,15 @@ Musical Morphology of “Apodomisis”
 Musical Analysis of “Apodomisis”
 
 “Apodomisis”, as it is mentioned above, is subdivided into three main sections accordingly to the three states of the sound of Flute. “Apodomisis” is a twelve-note composition based on the following twelve-tone series:
+
 C#, F, B, G#, D, C, A#, G, D#, A, F#, E
+
 This series is subdivided into two main parts of six-note series:
+
 •	1st Six-Note-Series: C#, F, B, G#, D, C
+
 •	2nd Six-Note-Series: A#, G, D#, A, F#, E
+
 In many parts of this music piece there are more subdivisions of the twelve-tone series taking places, in groups of two or three notes based on musical set theory introduced by Howard Hanson . In this way, it is underscored the microstructure of the twelve-tone series and its symmetry with the other tone rows used in this piece.  
 
 Tone rows:
@@ -37,6 +42,7 @@ Inversion (I): C#, A, D#, F#, C, D, E, G, B, F, G#, A#
 Retrograde Inversion (RI): A#, G#, F, B, G, E, D, C, F#, D#, A, C#
 
 Each tone row is equivalent to a specific section of the music piece “Apodomisis”. Thus: 
+
 •	The first section (m. 1-30) where is presented the Prime and the Retrograde state of the twelve-tone series
 •	The second section (m. 31-60) where is presented the Inversion and the Retrograde Inversion of the twelve-tone series
 •	The third section (m. 61-90) where is presented all the tone rows of the twelve-tone series (Prime, Retrograde, Inversion, Retrograde Inversion) 
@@ -44,6 +50,7 @@ Each tone row is equivalent to a specific section of the music piece “Apodomis
 Methodology of Composing “Apodomisis”
 
 In order to compose “Apodomisis”: 
+
 •	Writing of a conventional music score
 •	Translation of music score (notes and durations) into numbers/code 
 •	Physical Modeling of Flute in Super Collider
