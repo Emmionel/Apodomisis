@@ -1,6 +1,4 @@
-# flutefinal
-
-Apodomisis
+# Apodomisis
 
 6 minutes music piece for Flute and Super Collider Code 
 
