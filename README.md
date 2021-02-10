@@ -67,7 +67,7 @@ In order to compose “Apodomisis”:
 •	Metronome which is exported to one channel linked to headphones in order to indicate the right tempo mark so as to perform the piece with score at the same time with the code.
 
 
-***<ins>Comments of the composition of “Apodomisis” and Aspirations of Future Projects</ins>***
+***<ins>Comments of the composition of “Apodomisis” and aspirations for future projects</ins>***
 
 …
 
