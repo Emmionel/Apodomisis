@@ -2,12 +2,13 @@
 
 6 minutes music piece for Flute and Super Collider Code 
 
-Description
+<ins>Description</ins>
 
 “Apodomisis” is a music piece for Flute and Super Collider Code. The part of the Flute and Super Collider Code are both written in a conventional music score. This piece was composed in the context of “Music Programming” module of Sonic Arts and Audio Technologies Master’s Degree, an interdepartmental Master’s of School of Music & Audiovisual Arts, Departments of Music Studies and Audio and Visual Arts of Ionian University, Greece.  
+
 The main concept of this music piece is the disintegration of the sound of Flute into air. On the other hand, one can easily be driven into the conclusion that air leads to noise and thus the disintegration of sound of Flute into air is more complex in harmonic series than the sound of the Flute itself. This music piece focuses on that exact idea and plays between the meaning of “structure” and “degradation” of sound and their inextricably link to each other. 
 
-Musical Morphology of “Apodomisis” 
+<ins>Musical Morphology of “Apodomisis”</ins> 
 
 “Apodomisis” is subdivided into three main sections based on the quality of the sound of the Flute. Thus:  
 
@@ -17,7 +18,7 @@ Musical Morphology of “Apodomisis”
 
 •	The third section (m. 61-90) in which the sound of the Flute is disintegrated just in air tones.  
 
-Musical Analysis of “Apodomisis”
+<ins>Musical Analysis of “Apodomisis”</ins>
 
 “Apodomisis”, as it is mentioned above, is subdivided into three main sections accordingly to the three states of the sound of Flute. “Apodomisis” is a twelve-note composition based on the following twelve-tone series:
 
@@ -31,7 +32,7 @@ This series is subdivided into two main parts of six-note series:
 
 In many parts of this music piece there are more subdivisions of the twelve-tone series taking places, in groups of two or three notes based on musical set theory introduced by Howard Hanson . In this way, it is underscored the microstructure of the twelve-tone series and its symmetry with the other tone rows used in this piece.  
 
-Tone rows:
+<ins>Tone rows:</ins>
 
 Prime (P): C#, F, B, G#, D, C, A#, G, D#, A, F#, E
 
@@ -49,22 +50,29 @@ Each tone row is equivalent to a specific section of the music piece “Apodomis
 
 •	The third section (m. 61-90) where is presented all the tone rows of the twelve-tone series (Prime, Retrograde, Inversion, Retrograde Inversion) 
 
-Methodology of Composing “Apodomisis”
+
+<ins>Methodology of Composing “Apodomisis”</ins>
+
 
 In order to compose “Apodomisis”: 
 
 •	Writing of a conventional music score
 
-•	Translation of music score (notes and durations) into numbers/code 
+•	Translation of music score (notes and durations) into numbers/code
 
 •	Physical Modeling of Flute in Super Collider
 
 •	Metronome which is exported to one channel linked to headphones in order to indicate the right tempo mark so as to perform the piece with score at the same time with the code.
 
-Comments of the composition of “Apodomisis” and Aspirations of Future Projects
+
+<ins>Comments of the composition of “Apodomisis” and Aspirations of Future Projects</ins>
+
 …
 
-Bibliography
+
+
+<ins>Bibliography</ins>
+
 1.	Magnusson, T. (n.d.). Physical Modelling | Scoring. Scoring Sound: Creative Music Coding with SuperCollider. Retrieved December 16, 2020, from https://thormagnusson.gitbooks.io/scoring/content/PartII/chapter11.html
 2.	Stowell, D. (2015, July 17). What is the simplest way to play a sample/tone with given tempo in SuperCollider. Stack Overflow. https://stackoverflow.com/questions/31482726/what-is-the-simplest-way-to-play-a-sample-tone-with-given-tempo-in-supercollider
 3.	Zannos, I. (2021, January 16). simple pbind-score playing function. GitHub. https://gist.github.com/iani/d8d6545a172042dfbcd48f67a72cdfe5#file-pbind_score-scd
