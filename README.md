@@ -8,6 +8,7 @@
 
 The main concept of this music piece is the disintegration of the sound of Flute into air. On the other hand, one can easily be driven into the conclusion that air leads to noise and thus the disintegration of sound of Flute into air is more complex in harmonic series than the sound of the Flute itself. This music piece focuses on that exact idea and plays between the meaning of “structure” and “degradation” of sound and their inextricably link to each other. 
 
+
 ***<ins>Musical Morphology of “Apodomisis”</ins>*** 
 
 “Apodomisis” is subdivided into three main sections based on the quality of the sound of the Flute. Thus:  
@@ -17,6 +18,7 @@ The main concept of this music piece is the disintegration of the sound of Flute
 •	The second section (m. 31-60) where the sound of the Flute is presented with a breathier sound.
 
 •	The third section (m. 61-90) in which the sound of the Flute is disintegrated just in air tones.  
+
 
 ***<ins>Musical Analysis of “Apodomisis”</ins>***
 
