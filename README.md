@@ -4,7 +4,7 @@
 
 ***<ins>Description</ins>***
 
-“Apodomisis” is a music piece for Flute and Super Collider Code. The part of the Flute and Super Collider Code are both written in a conventional music score. This piece was composed in the context of “Music Programming” module of Sonic Arts and Audio Technologies Master’s Degree, an interdepartmental Master’s of School of Music & Audiovisual Arts, Departments of Music Studies and Audio and Visual Arts of Ionian University, Greece.  
+“Apodomisis” is a music piece for Flute and Super Collider Code. The part of the Flute and Super Collider Code are both written in a conventional music score. This piece was composed in the context of “Music Programming” module of Sonic Arts and Audio Technologies Master’s Degree, an interdepartmental Master’s of School of Music & Audiovisual Arts, Departments of Music Studies and Audio and Visual Arts of Ionian University, Corfu, Greece.  
 
 The main concept of this music piece is the disintegration of the sound of Flute into air. On the other hand, one can easily be driven into the conclusion that air leads to noise and thus the disintegration of sound of Flute into air is more complex in harmonic series than the sound of the Flute itself. This music piece focuses on that exact idea and plays between the meaning of “structure” and “degradation” of sound and their inextricably link to each other. 
 
