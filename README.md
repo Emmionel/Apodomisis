@@ -2,13 +2,13 @@
 
 6 minutes music piece for Flute and Super Collider Code 
 
-<ins>Description</ins>
+***<ins>Description</ins>***
 
 “Apodomisis” is a music piece for Flute and Super Collider Code. The part of the Flute and Super Collider Code are both written in a conventional music score. This piece was composed in the context of “Music Programming” module of Sonic Arts and Audio Technologies Master’s Degree, an interdepartmental Master’s of School of Music & Audiovisual Arts, Departments of Music Studies and Audio and Visual Arts of Ionian University, Greece.  
 
 The main concept of this music piece is the disintegration of the sound of Flute into air. On the other hand, one can easily be driven into the conclusion that air leads to noise and thus the disintegration of sound of Flute into air is more complex in harmonic series than the sound of the Flute itself. This music piece focuses on that exact idea and plays between the meaning of “structure” and “degradation” of sound and their inextricably link to each other. 
 
-<ins>Musical Morphology of “Apodomisis”</ins> 
+***<ins>Musical Morphology of “Apodomisis”</ins>*** 
 
 “Apodomisis” is subdivided into three main sections based on the quality of the sound of the Flute. Thus:  
 
@@ -18,7 +18,7 @@ The main concept of this music piece is the disintegration of the sound of Flute
 
 •	The third section (m. 61-90) in which the sound of the Flute is disintegrated just in air tones.  
 
-<ins>Musical Analysis of “Apodomisis”</ins>
+***<ins>Musical Analysis of “Apodomisis”</ins>***
 
 “Apodomisis”, as it is mentioned above, is subdivided into three main sections accordingly to the three states of the sound of Flute. “Apodomisis” is a twelve-note composition based on the following twelve-tone series:
 
@@ -51,7 +51,7 @@ Each tone row is equivalent to a specific section of the music piece “Apodomis
 •	The third section (m. 61-90) where is presented all the tone rows of the twelve-tone series (Prime, Retrograde, Inversion, Retrograde Inversion) 
 
 
-<ins>Methodology of Composing “Apodomisis”</ins>
+***<ins>Methodology of Composing “Apodomisis”</ins>***
 
 
 In order to compose “Apodomisis”: 
@@ -65,13 +65,13 @@ In order to compose “Apodomisis”:
 •	Metronome which is exported to one channel linked to headphones in order to indicate the right tempo mark so as to perform the piece with score at the same time with the code.
 
 
-<ins>Comments of the composition of “Apodomisis” and Aspirations of Future Projects</ins>
+***<ins>Comments of the composition of “Apodomisis” and Aspirations of Future Projects</ins>***
 
 …
 
 
 
-<ins>Bibliography</ins>
+***<ins>Bibliography</ins>***
 
 1.	Magnusson, T. (n.d.). Physical Modelling | Scoring. Scoring Sound: Creative Music Coding with SuperCollider. Retrieved December 16, 2020, from https://thormagnusson.gitbooks.io/scoring/content/PartII/chapter11.html
 2.	Stowell, D. (2015, July 17). What is the simplest way to play a sample/tone with given tempo in SuperCollider. Stack Overflow. https://stackoverflow.com/questions/31482726/what-is-the-simplest-way-to-play-a-sample-tone-with-given-tempo-in-supercollider
