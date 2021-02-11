@@ -77,7 +77,7 @@ Being my first composition in which I use coding in Super Collider, I would happ
 
 Through the process of making this project, I learned how to understand basic parts of coding in Super Collider environment and its potentials. I would like to encounter this knowledge that I gained in future projects and developing it to a further extend. I wholeheartedly hold the opinion that it would be very interesting to add more musically parameters in coding such as dynamics and articulation in future projects.  
 
-Another aspiration that emerges of this project is that I would like to see it performed in real time in a concert hall and/or another equivalent set up. By having the Metronome linked to one channel which is send to headphones in order to indicate the right tempo mark to the performer and the rest of the coding linked to two channels preferably to two monitors (left and right) I believe that this aspiration is not unattainable.  
+Another aspiration that emerges of this project is that I would like to see it performed in real time in a concert hall and/or another equivalent set up. By having the Metronome linked to one channel which is send to headphones in order to indicate the right tempo mark to the performer and the rest of the coding linked to preferably two channels which are sent to two monitors (left and right) I believe that this aspiration is not unattainable.  
 
 Hopefully, in future projects I would also like to get involved in physically modelling of other instruments, live coding performance, 3D audio effect coding and/or visual representation of sound.  
 
