@@ -73,8 +73,13 @@ Thus, after exporting the metronome created in Super Collider at 60 BPM as a sou
 
 ***<ins>Comments of the composition of “Apodomisis” and aspirations for future projects</ins>***
 
-…
+Being my first composition in which I use coding in Super Collider, I would happily consider that attempt fruitful as my first leap to music programming and its enormous new whole world. 
 
+Through the process of making this project, I learned how to understand basic parts of coding in Super Collider environment and its potentials. I would like to encounter this knowledge that I gained in future projects and developing it to a further extend. I wholeheartedly hold the opinion that it would be very interesting to add more musically parameters in coding such as dynamics and articulation in future projects.  
+
+Another aspiration that emerges of this project is that I would like to see it performed in real time in a concert hall and/or another equivalent set up. By having the Metronome linked to one channel which is send to headphones in order to indicate the right tempo mark to the performer and the rest of the coding linked to two channels preferably to two monitors (left and right) I believe that this aspiration is not unattainable.  
+
+Hopefully, in future projects I would also like to get involved in physically modelling of other instruments, live coding performance, 3D audio effect coding and/or visual representation of sound.  
 
 
 ***<ins>Bibliography</ins>***
