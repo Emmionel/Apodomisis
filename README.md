@@ -56,15 +56,16 @@ Each tone row is equivalent to a specific section of the music piece “Apodomis
 ***<ins>Methodology of Composing “Apodomisis”</ins>***
 
 
-In order to compose “Apodomisis”: 
+“Apodomisis” is a 6 minutes music piece for Flute and Super Collider Code. In order to compose “Apodomisis”, as a composer, I was faced with the problematic of physical modelling of Flute in Super Collider coding. In other words, I was called to find a code that imitates adequately the sound of Flute. 
 
-•	Writing of a conventional music score
+After finding the right patch of physical modelling of the sound of Flute in Super Collider code from Thor Magnusson  and changing its parameters so as to serve the main concept of “Apodomisis” composition, I was called to find out a function with which the whole code will run itself automatically in Super Collider. Thanks to my Prof. Iannis Zannos, this problem was solved after providing me with his coding for a simple function for playing a timed sequence of pbinds automatically.
 
-•	Translation of music score (notes and durations) into numbers/code
+Solving the above mentioned problems, which were essential in order to make my composition run in Super Collider in the first place, the next and very significant step so as to compose “Apodomisis” was to make a conventional music score of the piece for both Flute and Super Collider code and transcribe it into numbers/code. To make the composition easier, I decided to make the score at 60 BPM which translates perfectly one note to one second of time. Making a score for this piece not only does it make the transcription of notes into coding precise and easy, but also gives the opportunity to “classical” musicians, who are not familiar with this type of compositions, follow the artistic values, which this piece has to offer, by reading a conventional music score.     
 
-•	Physical Modeling of Flute in Super Collider
+For making the transcription of notes into code even easier, I organised the notes and their durations into patterns/pbinds, taking into consideration each state/tone row of the twelve-tone series. In this way, it is easy for one to follow both the score and the code in Super Collider at the same time.    
+Due to the fact that the performance and recording of this piece took place into my home where there is not sound card available, I created a metronome at 60 BPM and exported it to audio file which I then played it with headphones in order to indicate to the performer the right tempo mark so as to perform the piece precisely at the same time with the code. 
 
-•	Metronome which is exported to one channel linked to headphones in order to indicate the right tempo mark so as to perform the piece with score at the same time with the code.
+Thus, after exporting the metronome created in Super Collider at 60 BPM as a sound sample and played it with headphones, then I had recorded separately the Flute player and the code in Super Collider. The result provided of the performance of this piece was a mixing of separately recordings of the part of Flute and the part of Super Collider code.  
 
 
 ***<ins>Comments of the composition of “Apodomisis” and aspirations for future projects</ins>***
