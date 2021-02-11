@@ -80,8 +80,9 @@ In order to compose “Apodomisis”:
 3.	Zannos, I. (2021, January 16). simple pbind-score playing function. GitHub. https://gist.github.com/iani/d8d6545a172042dfbcd48f67a72cdfe5#file-pbind_score-scd
 4.	Morris, R. (2007). Mathematics and the Twelve-Tone System: Past, Present, and Future. Perspectives of New Music, 45(2), 76-107. Retrieved February 9, 2021, from http://www.jstor.org/stable/25164658
 5.	Howard Hanson. (1941). The Democratization of Music. Music Educators Journal, 27(5), 14-14. Retrieved February 9, 2021, from http://www.jstor.org/stable/3385962
-6.	Definition of Twelve-tone (Grove)
-7.	Definition of Pitch Classes - Set theory (Grove)
+6.  Headlam, D., Hasegawa, R., Lansky, P., & Perle, G.  (2001). Twelve-note composition. Grove Music Online. Retrieved 10 Feb. 2021, from https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000044582
+7.	Roeder, J.  (2001). Pitch class. Grove Music Online. Retrieved 10 Feb. 2021, from https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000021855
+8.	Watanabe, R., & Perone, J.  (2001). Hanson, Howard. Grove Music Online. Retrieved 11 Feb. 2021, from https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000012342
 
 
 
