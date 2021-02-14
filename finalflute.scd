@@ -135,15 +135,6 @@ Synth("Flute1");
 Synth("Flute2");
 Synth("Flute3");
 
-/*
-https://stackoverflow.com/questions/31482726/what-is-the-simplest-way-to-play-a-sample-tone-with-given-tempo-in-supercollider
-*/
-
-// Metronome
-
-~bpm = 60;
-x = {SinOsc.ar * Pulse.ar(~bpm/60, 0.01).lag}.play;
-
 
 /*
 https://gist.github.com/iani/d8d6545a172042dfbcd48f67a72cdfe5#file-pbind_score-scd
@@ -154,7 +145,7 @@ https://gist.github.com/iani/d8d6545a172042dfbcd48f67a72cdfe5#file-pbind_score-s
 (
 ~pbplay = { | ... durs |
 	var event, process, duration;
-	{
+	//{
 		durs do: { | what, i |
 			#duration, event = what.asArray;
 			postf("playing % for: %\n", event, duration);
@@ -163,30 +154,63 @@ https://gist.github.com/iani/d8d6545a172042dfbcd48f67a72cdfe5#file-pbind_score-s
 			process.stop;
 		};
 		"DONE".postln;
-	}.fork;
+	//}.fork;
 };
 )
 
-//Playing + recording supercollider's score (Problem)
-
 /*
+https://stackoverflow.com/questions/31482726/what-is-the-simplest-way-to-play-a-sample-tone-with-given-tempo-in-supercollider
+*/
+
+// Metronome
+
+~bpm = 60;
+x = {SinOsc.ar * Pulse.ar(~bpm/60, 0.01).lag}.play;
+
+// Playing + recording of metronome
+
 (
 {
 Server.default.record;
-*/
 
-(
+2.wait;
+
 ~pbplay.(
-	[4,Pbind(\instrument, "Flute1", \dur, 1,\note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4], 3),\amp, 0.2)],
-	14, // pause between phrases. If no pattern is provided, then stay silent.
-	[1, Pbind(\instrument, "Flute1", \dur, 1, \vibrato, Prand([0.01,3],inf), \note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4], 3),\amp, 0.2)]
-).play;
+	[60*6, Pbind(\instrument, x)]
+);
+
+2.wait;
+
+Server.default.stopRecording;
+}.fork;
 )
 
+//Playing + recording supercollider's score
 
 
+(
+{
+Server.default.record;
 
-Pbind(\instrument, "Flute1", \dur, 1/4,\note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4], 3),\amp, 0.2).play;
+8.wait;
+
+
+~pbplay.( // a short score, of total duration 4 + 3 + 5 = 12 seconds.
+	[14*3, Pbind(\instrument, "Flute1", \dur, 1, \note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4],3), \amp, 0.2)],
+	3, // pause between phrases. If no pattern is provided, then stay silent.
+	[14, Pbind(\instrument, "Flute1", \dur, 1, \note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4]), \amp, 0.2)]
+);
+
+
+8.wait;
+
+Server.default.stopRecording;
+}.fork;
+)
+
+//Notes
+
+Pbind(\instrument, "Flute1", \dur, 1,\note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4], 3),\amp, 0.2).play;
 14.wait;
 Pbind(\instrument, "Flute1", \dur, 1, \vibrato, Prand([0.01,3],inf), \note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4], 3),\amp, 0.2).play;
 2.wait;
@@ -198,14 +222,6 @@ Pbind(\dur, 2, \note, Pseq([-2, -4, -7, -1, -5, -8, 2, 0, -6, -9, -3, 1], 3), \a
 10.wait;
 
 
-
-/*
-Server.default.stopRecording;
-}.fork;
-)
-*/
-
-// Notes
 
 (
 Pbind(
