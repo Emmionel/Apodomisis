@@ -128,13 +128,11 @@ SynthDef("Flute3", { arg scl = 0.2, freq = 442, ipress = 0.9, ibreath = 0.5, ife
 }).add;
 )
 
-
 //Test of synths
 
 Synth("Flute1");
 Synth("Flute2");
 Synth("Flute3");
-
 
 /*
 https://gist.github.com/iani/d8d6545a172042dfbcd48f67a72cdfe5#file-pbind_score-scd
@@ -187,7 +185,6 @@ Server.default.stopRecording;
 
 //Playing + recording supercollider's score
 
-
 (
 {
 Server.default.record;
@@ -207,6 +204,8 @@ Server.default.record;
 Server.default.stopRecording;
 }.fork;
 )
+
+
 
 //Notes
 
