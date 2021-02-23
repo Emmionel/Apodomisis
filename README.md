@@ -65,7 +65,7 @@ Solving the above mentioned problems, which were essential in order to make my c
 
 For making the transcription of notes into code even easier, I organised the notes of this piece and their durations into patterns/pbinds, based on which state/tone row of the twelve-tone series the music score was into each time. In this way, it is easy for one to follow both the score and the code in Super Collider at the same time. 
 
-Due to the fact that the performance and recording of this piece were done remotedly, because of Covid-19 consenquences, I created a metronome in SuperCollider at 60 BPM and exported it to audio file which I then sent it to the performer. In this way, the performer could play via headphones the audio file of the metronome in order to have the right tempo mark indication so as to perform the part of the Flute exactly at the same time with the code. 
+Due to the fact that the performance and recording of this piece were done remotely, because of Covid-19 consenquences, I created a metronome in SuperCollider at 60 BPM and exported it to audio file which I then sent it to the performer. In this way, the performer could play via headphones the audio file of the metronome in order to have the right tempo mark indication so as to perform the part of the Flute exactly at the same time with the code. 
 
 Thus, after having recorded the part of the Flute in the right tempo mark by the performer, I recordered seperately the code in Super Collider. The result provided of the performance of this piece was a mixing of separately recordings of the part of Flute and the part of Super Collider code.  
 
