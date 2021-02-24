@@ -1,6 +1,6 @@
 # Apodomisis
 
-7 minutes 20 seconds music piece for Flute and Super Collider Code 
+7 minutes 40 seconds music piece for Flute and Super Collider Code 
 
 ***<ins>Description</ins>***
 
@@ -18,7 +18,7 @@ At the beginning of this piece Flute plays very musically the melody and code in
 
 •	The second section (m. 32-59) where the sound of the Flute is presented with a breathier sound.
 
-•	The third section (m. 60-108) in which the sound of the Flute is gradually disintegrated into air tones.  
+•	The third section (m. 60-115) in which the sound of the Flute is gradually disintegrated into air tones.  
 
 
 ***<ins>Musical Analysis of “Apodomisis”</ins>***
@@ -51,13 +51,13 @@ Each tone row is equivalent to a specific section of the music piece “Apodomis
 
 •	The second section (m. 32-59) where is presented the Inversion and the Retrograde Inversion of the twelve-tone series
 
-•	The third section (m. 60-108) where are presented all the tone rows of the twelve-tone series (Prime, Retrograde, Inversion, Retrograde Inversion) 
+•	The third section (m. 65-115) where are presented all the tone rows of the twelve-tone series (Prime, Retrograde, Inversion, Retrograde Inversion) 
 
 
 ***<ins>Methodology of Composing “Apodomisis”</ins>***
 
 
-“Apodomisis” is a 7 minutes 20 seconds music piece for Flute and Super Collider Code. In order to compose “Apodomisis”, as a composer, I was faced with the problematic of physical modelling of Flute in Super Collider coding. In other words, I was called to find a code that imitates adequately the sound of Flute. 
+“Apodomisis” is a 7 minutes 40 seconds music piece for Flute and Super Collider Code. In order to compose “Apodomisis”, as a composer, I was faced with the problematic of physical modelling of Flute in Super Collider coding. In other words, I was called to find a code that imitates adequately the sound of Flute. 
 
 After finding the right patch of physical modelling of the sound of Flute in Super Collider code from Thor Magnusson and changing its parameters so as to serve the main concept of “Apodomisis” composition, I was called to find out a function via which the whole code will run itself automatically in Super Collider. Thanks to my Prof. Iannis Zannos, this problem was easily solved after providing me with his coding for a simple function for playing a timed sequence of pbinds/patterns automatically.
 
