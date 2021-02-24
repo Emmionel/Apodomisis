@@ -128,11 +128,13 @@ SynthDef("Flute3", { arg scl = 0.2, freq = 442, ipress = 0.9, ibreath = 0.5, ife
 }).add;
 )
 
+
 //Test of synths
 
 Synth("Flute1");
 Synth("Flute2");
 Synth("Flute3");
+
 
 /*
 https://gist.github.com/iani/d8d6545a172042dfbcd48f67a72cdfe5#file-pbind_score-scd
@@ -160,42 +162,44 @@ https://gist.github.com/iani/d8d6545a172042dfbcd48f67a72cdfe5#file-pbind_score-s
 https://stackoverflow.com/questions/31482726/what-is-the-simplest-way-to-play-a-sample-tone-with-given-tempo-in-supercollider
 */
 
-// Metronome
+// Metronome + Recording of Metronome 
+
+(
+{
+Server.default.record;
+
+2.wait;
 
 ~bpm = 60;
 x = {SinOsc.ar * Pulse.ar(~bpm/60, 0.01).lag}.play;
 
-// Playing + recording of metronome
-
-(
-{
-Server.default.record;
-
-2.wait;
-
-~pbplay.(
-	[60*6, Pbind(\instrument, x)]
-);
-
-2.wait;
+(8*60). wait;
 
 Server.default.stopRecording;
 }.fork;
 )
+
 
 //Playing + recording supercollider's score
 
+
 (
 {
 Server.default.record;
-
-8.wait;
+1.wait;
+(7*4).wait;
 
 
 ~pbplay.( // a short score, of total duration 4 + 3 + 5 = 12 seconds.
-	[14*3, Pbind(\instrument, "Flute1", \dur, 1, \note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4],3), \amp, 0.2)],
-	3, // pause between phrases. If no pattern is provided, then stay silent.
-	[14, Pbind(\instrument, "Flute1", \dur, 1, \note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4]), \amp, 0.2)]
+	[14*2, Pbind(\instrument, "Flute1", \dur, 1, \note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4],2), \amp, 0.2)],
+	8, // pause between phrases. If no pattern is provided, then stay silent.
+	[20.5, Pbind(\instrument, "Flute1", \note, Pseq([ \, 25, 29, 35, \, 32, 26, 24, \, 34, 35, 26, 33, 30, 28]),
+			\dur,  Pseq([ 1, 1.5, 1/2, 1.5, 1, 1.5, 1/2, 1.5, 1, 3, 2, 2, 1.5, 1/2, 1.5]),
+	\amp, 0.4)],
+	0.5, // pause m.22 1st tactus
+	[1, Pbind(\instrument, "Flute1", \dur, 1/6,\note, Pseq([28,18, 21, 27, 19, 22]),\amp, 0.2)],
+	1,	// pause m.22 3rd tactus
+	[1, Pbind(\instrument, "Flute1", \dur, 1/6,\note, Pseq([22,19, 27, 21, 18, 28]),\amp, 0.2)]
 );
 
 
@@ -204,6 +208,7 @@ Server.default.record;
 Server.default.stopRecording;
 }.fork;
 )
+
 
 
 
@@ -225,8 +230,8 @@ Pbind(\dur, 2, \note, Pseq([-2, -4, -7, -1, -5, -8, 2, 0, -6, -9, -3, 1], 3), \a
 (
 Pbind(
 	\instrument, "Flute1",
-	\note, Pseq([1, 5,11, 8, 2, 0, 10,7, 3, 9, 6, 4], 2),
-	\dur,  Pseq([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], 2),
+	\note, Pseq([ \, 25, 29, 35, \, 32, 26, 24, \, 34, 35, 26, 33, 30, 28]),
+	\dur,  Pseq([ 1, 1.5, 1/2, 1.5, 1, 1.5, 1/2, 1.5, 1, 3, 2, 2, 1.5, 1/2, 1.5]),
 	\amp, 0.2).play;
 14.wait;
 Pbind(
@@ -236,3 +241,17 @@ Pbind(
 	\note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4], 3),
 	\amp, 0.2).play;
 )
+
+	Pbind(\instrument, "Flute1", \dur, 1/6, \note, Pseq([28, 18, 21, 27,19, 22]).play;
+
+
+
+		Pbind(\instrument, "Flute1", \dur, 1/6,\note, Pseq([28,18, 21, 27, 19, 22]),\amp, 0.2).play;
+
+
+
+
+
+
+
+
