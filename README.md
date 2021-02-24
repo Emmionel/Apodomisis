@@ -2,28 +2,31 @@
 
 7 minutes 40 seconds music piece for Flute and Super Collider Code 
 
+
 ***<ins>Description</ins>***
 
-“Apodomisis” is a music piece for Flute and Super Collider Code. The part of the Flute and Super Collider Code are both written in a conventional music score. This piece was composed in the context of “Music Programming” module of Sonic Arts and Audio Technologies Master’s Degree, an interdepartmental Master’s of School of Music & Audiovisual Arts, Departments of Music Studies and Audio and Visual Arts of Ionian University, Corfu, Greece.  
 
-The main concept of this music piece is the disintegration of the sound of Flute into air. On the other hand, one can easily be driven into the conclusion that air leads to noise and thus the disintegration of sound of Flute into air is more complex in harmonic series than the sound of the Flute itself. This music piece focuses on that exact idea and plays between the meaning of “structure” and “degradation” of sound and their inextricably link to each other. 
-
-At the beginning of this piece Flute plays very musically the melody and code in Super Collider tries to imitate its sound following the main structure of the melody with quarter-notes. After a point, the code presents a breathier sound of the Flute and Flute, vice versa, tries also to imitate it. After a significant point of this “battle of dominance” between Flute and coding in Super Collider, code in Super Collider plays air tones with pitch in very rapid rhythmic patterns and flute tries to follow up its example, but it fails to do so. The piece ends up declaring code in Super Collider as the winner of this battle and flute grieves its defeat playing jet whistle tones.      
+“Apodomisis” is a musical piece for Flute and Super Collider code. The part of the Flute and Super Collider code are both written in a conventional music score. This piece was composed in the context of “Music Programming” module of Sonic Arts and Audio Technologies Master’s Degree, an interdepartmental Master’s of School of Music & Audiovisual Arts, Departments of Music Studies and Audio and Visual Arts of Ionian University, Corfu, Greece.
+The main concept of this musical piece is the disintegration of the sound of Flute into air. On the other hand, one can easily be driven into the conclusion that air leads to noise and thus the disintegration of sound of Flute into air is more complex in harmonic series than the sound of the Flute itself. This musical piece focuses on that exact idea and plays between the meaning of “structure” and “degradation” of sound and their inextricably link to each other.
+At the beginning of this piece Flute plays very musically the melody and code in Super Collider tries to imitate its sound following the main structure of the melody with quarter-notes. After a point, the code presents a breathier sound of the Flute and Flute, vice versa, also tries to imitate it. After a significant point of this “battle of dominance” between Flute and coding in Super Collider, code in Super Collider plays air tones with pitch in very rapid rhythmic patterns and flute tries to follow up its example, but it fails to do so. The piece ends up declaring code in Super Collider as the winner of this battle and flute grieves its defeat playing jet whistle tones.      
+    
 
 ***<ins>Musical Morphology of “Apodomisis”</ins>*** 
 
+
 “Apodomisis” is subdivided into three main sections based on the quality of the sound of the Flute. Thus:  
 
-•	The first section (m. 1-31) in which there is stated clearly the sound of the Flute.
+•	The first section (m. 1-31) in which the sound of the Flute is stated clearly
 
-•	The second section (m. 32-59) where the sound of the Flute is presented with a breathier sound.
+•	The second section (m. 32-59) where the sound of the Flute is presented with a breathier sound
 
-•	The third section (m. 60-115) in which the sound of the Flute is gradually disintegrated into air tones.  
+•	The third section (m. 60-115) in which the sound of the Flute is disintegrated just in air tones
 
 
 ***<ins>Musical Analysis of “Apodomisis”</ins>***
 
-“Apodomisis”, as it is mentioned above, is subdivided into three main sections accordingly to the three states of Flute’s sound. “Apodomisis” is a twelve-note composition based on the following twelve-tone series:
+
+“Apodomisis”, as it is mentioned above, is subdivided into three main sections according to the three states of Flute’s sound. “Apodomisis” is a twelve-note composition based on the following twelve-tone series:
 
 C#, F, B, G#, D, C, A#, G, D#, A, F#, E
 
@@ -33,7 +36,7 @@ This series is subdivided into two main parts of six-note series:
 
 •	2nd Six-Note-Series: A#, G, D#, A, F#, E
 
-In many parts of this music piece there are taking place fragments of the twelve-tone series, in groups of two or three notes based on musical set theory introduced by Howard Hanson .  In this way, it is underscored the microstructure of the twelve-tone series and its symmetry with the other tone rows used in this piece.
+In many parts of this music piece fragments of the twelve-tone series are taking place, in groups of two or three notes based on musical set theory introduced by Howard Hanson .  In this way, the microstructure of the twelve-tone series is underscored and its symmetry with the other tone rows used in this piece.
 
 <ins>Tone rows:</ins>
 
@@ -47,23 +50,23 @@ Retrograde Inversion (RI): A#, G#, F, B, G, E, D, C, F#, D#, A, C#
 
 Each tone row is equivalent to a specific section of the music piece “Apodomisis”. Thus: 
 
-•	The first section (m. 1-31) where is presented the Prime and the Retrograde state of the twelve-tone series
+•	The first section (m. 1-31) where the Prime and the Retrograde state of the twelve-tone series are presented 
 
-•	The second section (m. 32-59) where is presented the Inversion and the Retrograde Inversion of the twelve-tone series
+•	The second section (m. 32-59) where the Inversion and the Retrograde Inversion of the twelve-tone series is presented 
 
-•	The third section (m. 65-115) where are presented all the tone rows of the twelve-tone series (Prime, Retrograde, Inversion, Retrograde Inversion) 
+•	The third section (m. 65-115) where all the tone rows of the twelve-tone series (Prime, Retrograde, Inversion, Retrograde Inversion)are presented 
 
 
 ***<ins>Methodology of Composing “Apodomisis”</ins>***
 
 
-“Apodomisis” is a 7 minutes 40 seconds music piece for Flute and Super Collider Code. In order to compose “Apodomisis”, as a composer, I was faced with the problematic of physical modelling of Flute in Super Collider coding. In other words, I was called to find a code that imitates adequately the sound of Flute. 
+“Apodomisis” is a 7 minutes 40 seconds music piece for Flute and Super Collider Code. In order to compose “Apodomisis”, as a composer, I was faced with the problem of physical modeling of Flute in Super Collider coding. In other words, I was called to find a code that imitates adequately the sound of Flute.  
 
-After finding the right patch of physical modelling of the sound of Flute in Super Collider code from Thor Magnusson and changing its parameters so as to serve the main concept of “Apodomisis” composition, I was called to find out a function via which the whole code will run itself automatically in Super Collider. Thanks to my Prof. Iannis Zannos, this problem was easily solved after providing me with his coding for a simple function for playing a timed sequence of pbinds/patterns automatically.
+After finding the right patch of physical modeling of the sound of Flute in Super Collider code from Thor Magnusson  and changing its parameters so as to serve the main concept of “Apodomisis” composition, I was called to find out a function with which the whole code will run itself automatically in Super Collider. Thanks to my Prof. Iannis Zannos, this problem was solved after providing me with his coding for a simple function for playing a timed sequence of pbinds/patterns automatically.  
 
-Solving the above mentioned problems, which were essential in order to make my composition run in Super Collider in the first place, the next and very significant step so as to compose “Apodomisis” was to make a conventional music score of the piece for both Flute and Super Collider code and transcribe it into numbers/code. To make the composition easier, I decided to make the score at 60 BPM which translates perfectly one note to one second of time. Making a score for this piece not only does it make the transcription of notes into coding easy and precise, but also gives the opportunity to “classical” musicians, who are not familiar with this type of compositions, follow the artistic values, which this piece has to offer, by reading a conventional music score.     
+Solving the above mentioned problems, which were essential in order to make my composition run in Super Collider in the first place, the next and very significant step so as to compose “Apodomisis” was to make a conventional music score of the piece for both Flute and Super Collider code and transcribe it into numbers/code. To make the composition easier, I decided to make the score at 60 BPM which translates perfectly one note to one second of time. Making a score for this piece not only does it make the transcription of notes into coding easy and precise, but also gives the opportunity to “classical” musicians, who are not familiar with this type of compositions, follow the artistic values, which this piece has to offer, by reading a conventional music score.          
 
-For making the transcription of notes into code even easier, I organised the notes of this piece and their durations into patterns/pbinds, based on which state/tone row of the twelve-tone series the music score was into each time. In this way, it is easy for one to follow both the score and the code in Super Collider at the same time. 
+For making the transcription of notes into code even easier, I organised the notes and their durations into patterns/pbinds, taking into consideration each state/tone row of the twelve-tone series. In this way, it is easy for one to follow both the score and the code in Super Collider at the same time.     
 
 Due to the fact that the performance and recording of this piece were done remotely, because of Covid-19 consenquences, I created a metronome in SuperCollider at 60 BPM and exported it to audio file which I then sent it to the performer. In this way, the performer could play via headphones the audio file of the metronome in order to have the right tempo mark indication so as to perform the part of the Flute exactly at the same time with the code. 
 
@@ -72,16 +75,17 @@ Thus, after having recorded the part of the Flute in the right tempo mark by the
 
 ***<ins>Comments of the composition of “Apodomisis” and aspirations for future projects</ins>***
 
-Being my first composition in which I use coding in Super Collider, I would happily consider that attempt fruitful as my first leap to music programming and its enormous new whole world. 
+Being my first composition in which I use coding in Super Collider, I would happily consider that attempt fruitful as my first venture/leap to music programming and its enormous new whole world.  
 
-Through the process of making this project, I learned how to understand basic parts of coding in Super Collider environment and its potentials. I would like to encounter this knowledge also in future projects and develop it to a further extend. I wholeheartedly hold the opinion that it would be very interesting, from an artistic perspective, to add more musically parameters in coding such as dynamics and articulations.  
+Through the process of making this project, I learned how to understand basic parts of coding in Super Collider environment and its potentials. I would like to apply this knowledge that I gained in future projects and developing it to a further extend. I wholeheartedly hold the opinion that it would be very interesting, from an artistic perspective, to add more musically parameters in coding such as dynamics and articulations.     
 
-Another aspiration that emerges of this project is that I would like to see it performed in real time in a concert hall and/or another equivalent set-up. By having the Metronome linked to one channel which is sent to headphones in order to indicate the right tempo mark to the performer and the rest of the coding linked to preferably two channels which are sent to two monitors (left and right), I believe that this aspiration is not unattainable.  
+Another aspiration that emerges of this project is that I would like to see it performed in real time in a concert hall and/or another equivalent set-up. By having the Metronome linked to one channel which is send to headphones in order to indicate the right tempo mark to the performer and the rest of the coding linked to preferably two channels which are sent to two monitors (left and right) I believe that this aspiration is not unattainable.  
 
-Hopefully, in future projects I would also like to get involved in physically modelling of other instruments, live coding performance, 3D audio effect coding and/or visual representation of sound.  
+Hopefully, in future projects I would also like to get involved in physically modeling of other instruments, live coding performance, 3D audio effect coding and/or visual representation of sound.  
 
 
 ***<ins>Bibliography</ins>***
+
 
 1.	Magnusson, T. (n.d.). Physical Modelling | Scoring. Scoring Sound: Creative Music Coding with SuperCollider. Retrieved December 16, 2020, from https://thormagnusson.gitbooks.io/scoring/content/PartII/chapter11.html
 2.	Stowell, D. (2015, July 17). What is the simplest way to play a sample/tone with given tempo in SuperCollider. Stack Overflow. https://stackoverflow.com/questions/31482726/what-is-the-simplest-way-to-play-a-sample-tone-with-given-tempo-in-supercollider
