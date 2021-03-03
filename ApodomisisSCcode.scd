@@ -194,8 +194,7 @@ Server.default.record;
 	[4*7, Pbind(\instrument, "Flute1", \dur, 1, \vibrato, Prand([0.01,3],inf), \note, Pseq([1, 5, \, 11, 8, 2, 0, 10, \, 7, 3, 9, 6, 4], 2), \amp, 0.2)], //first section of the piece, normal sound of flute, thus Flute 1 Synth
 	8, // pause between phrases. If no pattern is provided, then stay silent.
 	[20.5, Pbind(\instrument, "Flute1",\note, Pseq([ \, 25, 29, 35, \, 32, 26, 24, \, 34, 35, 26, 33, 30, 28]),
-			\dur,  Pseq([ 1, 1.5, 1/2, 1.5, 1, 1.5, 1/2, 1.5, 1, 3, 2, 2, 1.5, 1/2, 1.5]),
-	\amp, 0.4)],
+			\dur,  Pseq([ 1, 1.5, 1/2, 1.5, 1, 1.5, 1/2, 1.5, 1, 3, 2, 2, 1.5, 1/2, 1.5]),\amp, 0.4)],
 	0.5, // pause m.22 1st tactus
 	[1, Pbind(\instrument, "Flute1", \dur, 1/6, \vibrato, 1, \note, Pseq([28,18, 21, 27, 19, 22]),\amp, 0.2)],
 	1,	// pause m.22 3rd tactus
@@ -209,8 +208,7 @@ Server.default.record;
 	[4, Pbind(\instrument, "Flute1", \dur, 1/3,\note, Pseq([16, 6, 9, 15, 7, 10, 12, 14, 8, 11, 5, 13]),\amp, 0.2)],
 	[4, Pbind(\instrument, "Flute1", \dur, 1/3,\note, Pseq([4, 6, 9, 15, 7, 10, 12, 2, 8, 11, 5, 13]),\amp, 0.1)],
 	[4*3, Pbind(\instrument, "Flute1", \vibrato, Prand([0.01,3],inf), \note, Pseq([ \, 11, 5, 13, \, -1, 5, 1, \, 8, -1, 5, 1, \, 4, 4, 4, 4]),
-			\dur,  Pseq([ 1, 1/3, 1/3, 1/3, 1, 1/3, 1/3, 1/3, 1.5, 1/2, 1/3, 1/3, 1/3, 1.5, 1, 1, 1, 1/2]),
-	\amp, 0.2)],
+			\dur,  Pseq([ 1, 1/3, 1/3, 1/3, 1, 1/3, 1/3, 1/3, 1.5, 1/2, 1/3, 1/3, 1/3, 1.5, 1, 1, 1, 1/2]),\amp, 0.2)],
 	[4, Pbind(\instrument, "Flute2", \dur, 1,\note, Pseq([16, 16, 16, 16]),\amp, 0.15)],
 		// second section of the piece, thus Flute 2 Synth
 	[9, Pbind(\instrument, "Flute2", \note, Pseq([ \, 25, 21, 27, \, 25, 21, 27, \]),
@@ -218,8 +216,7 @@ Server.default.record;
 	[19.5, Pbind(\instrument, "Flute2", \note, Pseq([ 25, 21, 27, \, 28, 24, 26, \, 28, 31, 35, 29, 32, 34]),
 			\dur,  Pseq([ 1.5, 1/2, 1.5, 1, 1.5, 1/2, 1.5, 1, 3, 2, 2, 1.5, 1/2, 1.5]),\amp, 0.2)],
 	[19.5, Pbind(\instrument, "Flute2", \note, Pseq([ 34, 32, 29, 35, 31, 28, \, 26, 24, 28, \, 27, 21, 25]),
-			\dur,  Pseq([ 1.5, 1/2, 1.5, 2, 2, 3, 1, 1.5, 1/2, 1.5, 1, 1.5, 1/2, 1.5]),
-	\amp, 0.2)],
+			\dur,  Pseq([ 1.5, 1/2, 1.5, 2, 2, 3, 1, 1.5, 1/2, 1.5, 1, 1.5, 1/2, 1.5]),\amp, 0.2)],
 	[4*3, Pbind(\instrument, "Flute2", \dur, 1/6,\note, Pseq([26, 24, 18, 15, 21, 24], 12),\amp, 0.15)],
 	[4*3, Pbind(\instrument, "Flute2", \dur, 1/6,\note, Pseq([26, 24, 18, 15, 9, 1, 1, 9, 15, 18, 24, 26], 6),\amp, 0.2)],
 	[4*3, Pbind(\instrument, "Flute2", \dur, 1/6,\note, Pseq([28, 31, 35, 29, 32, 34], 12),\amp, 0.3)],
@@ -230,7 +227,7 @@ Server.default.record;
 	[4*2, Pbind(\instrument, "Flute3", \dur, 1,\note, Pseq([21, 21, 21, 21], 2),\amp, 0.3)],
 	[4*3, Pbind(\instrument, "Flute3", \dur, 1,\note, Pseq([7, 7, 7, 7], 3),\amp, 0.2)],
 	[4, Pbind(\instrument, "Flute1", \dur, 1/12,\note, Pseq([1, 9, 15, 18, 24, 26, 28, 31, 35, 29, 32, 34, 37, 29, 23, 20, 14, 12, 10, 7, 3, 9, 6, 4], 2),\amp, 0.2)],
-    [4, Pbind(\instrument, "Flute2", \dur, 1/12,\note, Pseq([1, 9, 15, 18, 24, 26, 28, 31, 35, 29, 32, 34, 37, 29, 23, 20, 14, 12, 10, 7, 3, 9, 6, 4], 2),\amp, 0.2)],
+        [4, Pbind(\instrument, "Flute2", \dur, 1/12,\note, Pseq([1, 9, 15, 18, 24, 26, 28, 31, 35, 29, 32, 34, 37, 29, 23, 20, 14, 12, 10, 7, 3, 9, 6, 4], 2),\amp, 0.2)],
 	[4, Pbind(\instrument, "Flute3", \dur, 1/12,\note, Pseq([1, 9, 15, 18, 24, 26, 28, 31, 35, 29, 32, 34, 37, 29, 23, 20, 14, 12, 10, 7, 3, 9, 6, 4], 2),\amp, 0.2)],
 	[4, Pbind(\instrument, "Flute1", \dur, 1/12,\note, Pseq([1, 9, 15, 18, 24, 26, 28, 31, 35, 29, 32, 34, 34, 32, 29, 35, 31, 28, 26, 24, 18, 15, 9, 1], 2),\amp, 0.2)],
 	[4, Pbind(\instrument, "Flute2", \dur, 1/12,\note, Pseq([1, 9, 15, 18, 24, 26, 28, 31, 35, 29, 32, 34, 34, 32, 29, 35, 31, 28, 26, 24, 18, 15, 9, 1], 2),\amp, 0.2)],
