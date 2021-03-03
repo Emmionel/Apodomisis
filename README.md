@@ -56,7 +56,7 @@ Each tone row is equivalent to a specific section of the music piece “Apodomis
 
 •	The second section (m. 32-59) where the Inversion and the Retrograde Inversion of the twelve-tone series is presented 
 
-•	The third section (m. 65-115) where all the tone rows of the twelve-tone series (Prime, Retrograde, Inversion, Retrograde Inversion)are presented 
+•	The third section (m. 65-115) where all the tone rows of the twelve-tone series (Prime, Retrograde, Inversion, Retrograde Inversion) are presented 
 
 
 ***<ins>Methodology of Composing “Apodomisis”</ins>***
